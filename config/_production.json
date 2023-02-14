@@ -1,0 +1,60 @@
+{
+  "cron": {"jobs": []},
+  "settings": {
+    "public": {},
+    "cluar": {
+      "website": {
+        "mapbox": {"dark": false},
+        "name": "Website Name",
+        "services": {"api": "http://localhost:9000/services/"},
+        "url": "http://localhost:3000"
+      },
+      "uglifyjs": false
+    }
+  },
+  "cors": [{
+    "origins": ["*"],
+    "enabled": true
+  }],
+  "smtp": {},
+  "name": "cluar",
+  "setup": {
+    "schema": {
+      "execution": true,
+      "auto_create": true
+    },
+    "scripts": {"execution": true},
+    "enabled": true
+  },
+  "language": "en_GB",
+  "firebase": {
+    "app_name": "",
+    "database_url": "",
+    "key_file": "",
+    "listener_secret": ""
+  },
+  "locale": "en_GB",
+  "remote": {},
+  "commands": [
+    {
+      "path": "ui",
+      "install": "npm install --force",
+      "command": "npm run watch",
+      "enabled": false
+    },
+    {
+      "path": "website",
+      "install": "npm install --force",
+      "command": "npm start",
+      "enabled": false
+    }
+  ],
+  "db": {"default": {
+    "password": "",
+    "engine": "h2",
+    "port": "",
+    "host": "",
+    "name": "cluar",
+    "username": ""
+  }}
+}

@@ -1,0 +1,12 @@
+[2023-02-14 20:19:37.328] [exthost] [info] Extension host with pid 67198 started
+[2023-02-14 20:19:37.343] [exthost] [info] Lock '/home/luis-mijias/netuno/apps/cluarnino/User/workspaceStorage/-3a1f283c/vscode.lock': Lock acquired.
+[2023-02-14 20:19:37.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-14 20:19:37.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-02-14 20:19:38.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-14 20:19:38.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-14 20:19:38.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-14 20:19:38.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-14 20:19:38.750] [exthost] [info] Eager extensions activated
+[2023-02-14 20:20:36.762] [exthost] [info] extension host terminating: received terminate message from renderer
+[2023-02-14 20:20:36.768] [exthost] [info] Lock '/home/luis-mijias/netuno/apps/cluarnino/User/workspaceStorage/-3a1f283c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-02-14 20:20:36.800] [exthost] [info] Extension host with pid 67198 exiting with code 0

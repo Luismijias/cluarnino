@@ -1,0 +1,17 @@
+[2023-02-14 20:19:29.409] [remoteagent] [info] Extension host agent started.
+[2023-02-14 20:19:30.967] [remoteagent] [error] [127.0.0.1][d3ca68b6][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2023-02-14 20:19:31.465] [remoteagent] [error] [127.0.0.1][67350381][ManagementConnection] Unknown reconnection token (never seen).
+[2023-02-14 20:19:31.958] [remoteagent] [info] [127.0.0.1][8122ea42][ManagementConnection] New connection established.
+[2023-02-14 20:19:34.404] [remoteagent] [info] [127.0.0.1][9693f8ca][ExtensionHostConnection] New connection established.
+[2023-02-14 20:19:34.425] [remoteagent] [info] [127.0.0.1][9693f8ca][ExtensionHostConnection] <67198> Launched Extension Host Process.
+[2023-02-14 20:20:36.787] [remoteagent] [info] [127.0.0.1][8122ea42][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-14 20:20:36.818] [remoteagent] [info] [127.0.0.1][9693f8ca][ExtensionHostConnection] <67198> Extension Host Process exited with code: 0, signal: null.
+[2023-02-14 20:20:39.840] [remoteagent] [info] [127.0.0.1][76ceb50c][ManagementConnection] New connection established.
+[2023-02-14 20:20:42.190] [remoteagent] [info] [127.0.0.1][a0686c2f][ExtensionHostConnection] New connection established.
+[2023-02-14 20:20:42.196] [remoteagent] [info] [127.0.0.1][a0686c2f][ExtensionHostConnection] <67330> Launched Extension Host Process.
+[2023-02-14 21:21:20.624] [remoteagent] [info] [127.0.0.1][76ceb50c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-14 21:21:20.648] [remoteagent] [info] [127.0.0.1][a0686c2f][ExtensionHostConnection] <67330> Extension Host Process exited with code: 0, signal: null.
+[2023-02-14 21:21:23.746] [remoteagent] [info] [127.0.0.1][0e37f2b2][ManagementConnection] New connection established.
+[2023-02-14 21:21:26.119] [remoteagent] [info] [127.0.0.1][529da7a2][ExtensionHostConnection] New connection established.
+[2023-02-14 21:21:26.126] [remoteagent] [info] [127.0.0.1][529da7a2][ExtensionHostConnection] <68940> Launched Extension Host Process.
+[2023-02-14 21:45:44.030] [remoteagent] [error] ptyHost terminated unexpectedly with code null

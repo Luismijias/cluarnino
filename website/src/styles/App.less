@@ -1,0 +1,43 @@
+/*************
+ * Dark Mode *
+ *///////////*/
+//@import '~antd/lib/style/themes/dark.less';
+
+@import '~antd/dist/antd.less';
+
+@import '~@animated-burgers/burger-slip/dist/styles.css';
+@import '~sal.js/dist/sal.css';
+
+@import "./variables.less";
+
+html,
+body {
+    background-color: @site-background;
+}
+
+.ant-layout {
+    padding-top: @header-size;
+    background-color: @page-background;
+    min-height: 100vh;
+
+    @media only screen and (max-width: @header-mobile-width) {
+        padding-top: @header-size-mobile;
+    }
+}
+
+.ant-layout-content {
+    background-color: @page-background !important;
+    z-index: 2;
+
+    a {
+        color: @primary-link-color;
+        text-decoration: underline;
+
+        &:hover,
+        &:active,
+        &:focus {
+            color: @primary-link-hover-color;
+            text-decoration: underline;
+        }
+    }
+}
