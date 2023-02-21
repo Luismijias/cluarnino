@@ -1,24 +1,24 @@
 
 node_modules/
-.DS_Store
-*.log
-.idea/
-.metadata/
-.vscode
-package-lock.json
+# .DS_Store
+# *.log
+# .idea/
+# .metadata/
+# .vscode
+# package-lock.json
 
-/trash/*
+# /trash/*
 
-.Trash
+# .Trash
 
-*~*
-*#*
+# *~*
+# *#*
 
-config/_development.json
-config/_production.json
+# config/_development.json
+# config/_production.json
 
-dbs/
+# dbs/
 
-public/scripts/main.*
+# public/scripts/main.*
 
-storage/database/
+# storage/database/
