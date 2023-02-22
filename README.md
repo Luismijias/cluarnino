@@ -1,4 +1,5 @@
-![Logo](https://raw.githubusercontent.com/netuno-org/cluar/main/docs/logo.svg)
+![cluarninofinalsvg](https://user-images.githubusercontent.com/53336758/220474723-10d285e4-fe71-40e8-bf04-28f3ddf041da.svg)
+
 
 # CLUAR CMS
 
